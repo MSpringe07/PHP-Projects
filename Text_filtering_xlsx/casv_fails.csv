@@ -1,0 +1,113 @@
+Nr.p.k.,Autors,Nosaukums,Datums,Skaits,Pašizmaksa,Cena,Kopā,Peļņa,"Pārdošanas apjoms"
+1,"Jane Austen","Pride and Prejudice ","2020-09-12 00:00:00",70,3.876,4.84,474.32,94.472,Daudz
+2,"Mary Wollstonecraft Shelley","Frankenstein; Or, The Modern Prometheus ","2020-10-29 00:00:00",64,6.007,7.51,480.64,96.192,Daudz
+3,"Charles Dickens","A Christmas Carol in Prose; Being a Ghost Story of Christmas ","2020-09-21 00:00:00",6,3.36,4.2,25.2,5.04,Maz
+4,"Lewis Carroll","Alice's Adventures in Wonderland ","2020-10-17 00:00:00",16,9.438,11.8,188.8,37.792,Maz
+5,"Nathaniel Hawthorne","The Scarlet Letter ","2020-10-28 00:00:00",56,1.139,1.42,79.52,15.736,Daudz
+6,"Henrik Ibsen","Et dukkehjem. English ","2020-10-13 00:00:00",21,5.656,7.07,148.47,29.694,Maz
+7,"Charlotte Perkins Gilman","The Yellow Wallpaper ","2020-09-26 00:00:00",76,7.294,9.12,693.12,138.776,Daudz
+8,"Herman Melville","Moby Dick; Or, The Whale ","2020-10-23 00:00:00",18,2.677,3.35,60.3,12.114,Maz
+9,"Franz Kafka","Metamorphosis ","2020-10-29 00:00:00",,7.089,8.86,0,0,Maz
+10,"Charles Dickens","A Tale of Two Cities ","2020-10-16 00:00:00",40,9.121,11.4,456,91.16,Vidēji
+11,"Arthur Conan Doyle","The Adventures of Sherlock Holmes ","2020-10-18 00:00:00",10,8.019,10.02,100.2,20.01,Maz
+12,"Jonathan Swift","A Modest Proposal ","2020-09-20 00:00:00",97,5.438,6.8,659.6,132.114,Daudz
+13,"Niccolò Machiavelli","Il Principe. English ","2020-10-24 00:00:00",63,5.034,6.29,427.72,85.408,Daudz
+14,"Robert Louis Stevenson","The Strange Case of Dr. Jekyll and Mr. Hyde ","2020-09-07 00:00:00",67,2.954,3.69,247.23,49.312,Daudz
+15,"Oscar Wilde","The Importance of Being Earnest: A Trivial Comedy for Serious People ","2020-10-22 00:00:00",99,5.698,7.12,704.88,140.778,Daudz
+16,"Henry David Thoreau","Walden, and On The Duty Of Civil Disobedience ","2020-10-25 00:00:00",,8.291,10.36,0,0,Maz
+17,"Bram Stoker","Dracula ","2020-10-29 00:00:00",6,12.369,15.46,92.76,18.546,Maz
+18,"Frank Belknap Long","Time Trap ","2020-10-12 00:00:00",41,8.548,10.68,437.88,87.412,Vidēji
+19,"Michel de Montaigne","Essays of Michel de Montaigne — Complete ","2020-10-04 00:00:00",72,5.916,7.4,532.8,106.848,Daudz
+20,"Mark Twain","Adventures of Huckleberry Finn ","2020-10-07 00:00:00",73,9.901,12.38,903.74,180.967,Daudz
+21,"Oscar Wilde","The Picture of Dorian Gray ","2020-09-12 00:00:00",4,7.165,8.96,35.84,7.18,Maz
+22,"Frederick Douglass","Narrative of the Life of Frederick Douglass, an American Slave ","2020-10-28 00:00:00",50,1.484,1.86,93,18.8,Vidēji
+23,"John Camden Hotten","The Slang Dictionary: Etymological, Historical and Andecdotal ","2020-09-22 00:00:00",16,7.74,9.68,154.88,31.04,Maz
+24,"Mark Twain","The Adventures of Tom Sawyer ","2020-09-09 00:00:00",91,6.843,8.55,778.05,155.337,Daudz
+25,"Charlotte Brontë","Jane Eyre: An Autobiography ","2020-10-05 00:00:00",27,9.938,12.42,335.34,67.014,Vidēji
+26,"Kate Chopin","The Awakening, and Selected Short Stories ","2020-09-08 00:00:00",88,3.988,4.98,438.24,87.296,Daudz
+27,"Oscar Wilde","The Happy Prince, and Other Tales ","2020-09-16 00:00:00",50,2.455,3.07,153.5,30.75,Vidēji
+28,"graf Leo Tolstoy","War and Peace ","2020-10-20 00:00:00",90,1.063,1.33,119.7,24.03,Daudz
+29,"Ayn Rand","Anthem ","2020-09-04 00:00:00",97,8.898,11.12,1078.64,215.534,Daudz
+30,"Jacob Grimm and Wilhelm Grimm","Grimms' Fairy Tales ","2020-09-17 00:00:00",75,3.275,4.09,306.75,61.125,Daudz
+31,"Charles Dickens","Great Expectations ","2020-10-19 00:00:00",43,9.444,11.8,507.4,101.308,Vidēji
+32,"J. M. Barrie","Peter Pan ","2020-10-07 00:00:00",20,8.809,11.01,220.2,44.02,Maz
+33,Homer,"The Iliad ","2020-10-22 00:00:00",79,9.482,11.85,936.15,187.072,Daudz
+34,"W. E. B. Du Bois","The Souls of Black Folk ","2020-10-24 00:00:00",93,9.923,12.4,1153.2,230.361,Daudz
+35,"Louisa May Alcott","Little Women ","2020-09-22 00:00:00",33,2.967,3.71,122.43,24.519,Vidēji
+36,Plato,"The Republic ","2020-10-29 00:00:00",46,5.214,6.52,299.92,60.076,Vidēji
+37,"Robert Louis Stevenson","Treasure Island ","2020-10-01 00:00:00",11,1.74,2.18,23.98,4.84,Maz
+38,"Jane Austen","Emma ","2020-09-15 00:00:00",0,6.525,8.16,0,0,Maz
+39,"James Joyce","Dubliners ","2020-09-16 00:00:00",18,9.292,11.61,208.98,41.724,Maz
+40,"James Joyce","Ulysses ","2020-10-22 00:00:00",61,9.191,11.49,700.89,140.239,Daudz
+41,"Arthur Conan Doyle","The Hound of the Baskervilles ","2020-09-02 00:00:00",40,3.813,4.77,190.8,38.28,Vidēji
+42,"Harriet Beecher Stowe","Uncle Tom's Cabin ","2020-09-14 00:00:00",72,1.558,1.95,140.4,28.224,Daudz
+43,"Kahlil Gibran","The Prophet ","2020-09-23 00:00:00",61,1.659,2.07,126.27,25.071,Daudz
+44,"Thomas Hobbes","Leviathan ","2020-10-08 00:00:00",70,1.609,2.01,140.7,28.07,Daudz
+45,"Joseph Conrad","Heart of Darkness ","2020-09-14 00:00:00",68,9.665,12.08,821.44,164.22,Daudz
+46,"Alexandre Dumas","The Count of Monte Cristo, Illustrated ","2020-09-21 00:00:00",24,7.452,9.31,223.44,44.592,Maz
+47,"Andrée Hope","Chronicles of an Old Inn ","2020-09-11 00:00:00",96,6.034,7.54,723.84,144.576,Daudz
+48,Unknown,"Pennsylvania Dutch Cooking ","2020-09-07 00:00:00",62,5.693,7.12,441.44,88.474,Daudz
+49,"L. M. Montgomery","Anne of Green Gables ","2020-10-16 00:00:00",40,4.064,5.08,203.2,40.64,Vidēji
+50,"D. W. Barefoot","Morley's Weapon ","2020-09-05 00:00:00",35,2.854,3.57,124.95,25.06,Vidēji
+51,"Antonio Pigafetta","The Philippine Islands, 1493-1898, Volume 33, 1519-1522 ","2020-10-21 00:00:00",92,3.015,3.77,346.84,69.46,Daudz
+52,"David P. Barrows","A History of the Philippines ","2020-09-18 00:00:00",61,7.307,9.13,556.93,111.203,Daudz
+53,"John U. Wolff","A Dictionary of Cebuano Visayan ","2020-10-28 00:00:00",30,3.016,3.77,113.1,22.62,Vidēji
+54,"C. J. Wedlake","Peril Orbit ","2020-09-18 00:00:00",88,1.104,1.38,121.44,24.288,Daudz
+55,"L. Frank Baum","The Wonderful Wizard of Oz ","2020-09-28 00:00:00",66,7.438,9.3,613.8,122.892,Daudz
+56,"William Cathrall","The History of Oswestry ","2020-10-25 00:00:00",48,2.958,3.7,177.6,35.616,Vidēji
+57,"Victor Hugo","Les Misérables ","2020-10-21 00:00:00",99,2.987,3.73,369.27,73.557,Daudz
+58,"Ray Bradbury","Asleep in Armageddon ","2020-10-22 00:00:00",41,6.776,8.47,347.27,69.454,Vidēji
+59,"Fyodor Dostoyevsky","The Brothers Karamazov ","2020-09-09 00:00:00",6,3.724,4.66,27.96,5.616,Maz
+60,"J. H. Oswald Brown","Spectropia; or, Surprising Spectral Illusions ","2020-09-07 00:00:00",94,7.14,8.92,838.48,167.32,Daudz
+61,Stanley,"Surveying and Levelling Instruments, Theoretically and Practically Described. ","2020-10-01 00:00:00",,9.776,12.22,0,0,Maz
+62,"Emily Brontë","Wuthering Heights ","2020-10-16 00:00:00",48,1.131,1.41,67.68,13.392,Vidēji
+63,"Henry James","The Turn of the Screw ","2020-10-06 00:00:00",48,5.847,7.31,350.88,70.224,Vidēji
+64,"Alfred Coppel","Jinx Ship to the Rescue ","2020-09-03 00:00:00",42,7.461,9.33,391.86,78.498,Vidēji
+65,"Margaret St. Clair","Garden of Evil ","2020-09-29 00:00:00",14,3.403,4.25,59.5,11.858,Maz
+66,"Ludwig Wittgenstein","Tractatus Logico-Philosophicus ","2020-10-07 00:00:00",52,2.391,2.99,155.48,31.148,Daudz
+67,"Fyodor Dostoyevsky","Prestuplenie i nakazanie. English ","2020-09-22 00:00:00",100,2.008,2.51,251,50.2,Daudz
+68,"Washington Irving","The Legend of Sleepy Hollow ","2020-09-03 00:00:00",91,9.015,11.27,1025.57,205.205,Daudz
+69,"Charles Dickens","David Copperfield ","2020-09-14 00:00:00",53,4.512,5.64,298.92,59.784,Daudz
+70,"H. G. Wells","The War of the Worlds ","2020-10-17 00:00:00",53,6.287,7.86,416.58,83.369,Daudz
+71,"William Beattie","The castles and abbeys of England; Vol. 2 of 2 ","2020-09-29 00:00:00",31,1.216,1.52,47.12,9.424,Vidēji
+72,"Jack London","The Call of the Wild ","2020-10-19 00:00:00",73,3.415,4.27,311.71,62.415,Daudz
+73,"Miguel de Cervantes Saavedra","Don Quixote ","2020-09-12 00:00:00",82,0.754,0.94,77.08,15.252,Daudz
+74,"Bernard Shaw","Pygmalion ","2020-09-16 00:00:00",84,6.333,7.92,665.28,133.308,Daudz
+75,"John Aubrey","The Natural History of Wiltshire ","2020-09-21 00:00:00",1,9.891,12.36,12.36,2.469,Maz
+76,"W.V. Athanas","The Madcap Metalloids ","2020-10-08 00:00:00",91,9.728,12.16,1106.56,221.312,Daudz
+77,"Hermann Hesse","Siddhartha ","2020-10-28 00:00:00",39,1.407,1.76,68.64,13.767,Vidēji
+78,"Friedrich Wilhelm Nietzsche","Beyond Good and Evil ","2020-09-30 00:00:00",19,9.053,11.32,215.08,43.073,Maz
+79,"Arthur Conan Doyle","A Study in Scarlet ","2020-10-07 00:00:00",73,2.831,3.54,258.42,51.757,Daudz
+80,"Edgar Allan Poe","The Masque of the Red Death ","2020-10-08 00:00:00",4,5.812,7.27,29.08,5.832,Maz
+81,Voltaire,"Candide ","2020-10-04 00:00:00",61,2.998,3.75,228.75,45.872,Daudz
+82,"Daniel Defoe","A Journal of the Plague Year ","2020-10-24 00:00:00",9,9.11,11.39,102.51,20.52,Maz
+83,"Upton Sinclair","The Jungle ","2020-10-22 00:00:00",45,6.997,8.75,393.75,78.885,Vidēji
+84,"Frances Hodgson Burnett","The Secret Garden ","2020-09-09 00:00:00",43,4.651,5.81,249.83,49.837,Vidēji
+85,"William J. Brittain","The Burnt Planet ","2020-09-10 00:00:00",8,3.248,4.06,32.48,6.496,Maz
+86,"Rudyard Kipling","The Jungle Book ","2020-09-19 00:00:00",51,1.683,2.1,107.1,21.267,Daudz
+87,Homer,"The Odyssey ","2020-09-07 00:00:00",17,3.104,3.88,65.96,13.192,Maz
+88,"graf Leo Tolstoy","Anna Karenina ","2020-10-14 00:00:00",19,7.572,9.47,179.93,36.062,Maz
+89,"Dante Alighieri","Divine Comedy, Longfellow's Translation, Hell ","2020-10-23 00:00:00",16,8.382,10.48,167.68,33.568,Maz
+90,"Jonathan Swift","Gulliver's Travels into Several Remote Nations of the World ","2020-10-22 00:00:00",2,5.986,7.48,14.96,2.988,Maz
+91,"Charles Dickens","Oliver Twist ","2020-10-24 00:00:00",7,1.661,2.08,14.56,2.933,Maz
+92,"Martin A. S. Hume","Queens of old Spain ","2020-09-22 00:00:00",6,2.225,2.78,16.68,3.33,Maz
+93,"Daniel Defoe","The Life and Adventures of Robinson Crusoe ","2020-09-30 00:00:00",6,5.24,6.55,39.3,7.86,Maz
+94,Various,"Graham's Magazine, Vol. XVIII, No. 6, June 1841 ","2020-10-08 00:00:00",,2.021,2.53,0,0,Maz
+95,"Herself by Harriet A. Jacobs","Incidents in the Life of a Slave Girl, Written ","2020-10-26 00:00:00",26,3.84,4.8,124.8,24.96,Vidēji
+96,Equiano,"The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African ","2020-09-17 00:00:00",0,4.966,6.21,0,0,Maz
+97,"Jerome K. Jerome","Three Men in a Boat (To Say Nothing of the Dog) ","2020-09-17 00:00:00",79,6.896,8.62,680.98,136.196,Daudz
+,,,,,0,,,,
+,,,,,0,,,,
+,,,,,,"Pārdots kopā",,,
+,,,,,,Skaits,4506,,
+,,,,,,Summa,29257.51,,
+,,,,,,Peļņa,5850.122,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,"Vispār nepārdoto grāmatu skaits",6,,
+,,,,,,"Pārdoto grāmatu skaits",91,,
+,,,,,,"Vidējais pārdoto gab skaits",48.451612903226,,
+,,,,,,"Vidējā pārdotās grāmatas cena",6.6938461538462,,
+,,,,,,,,,
+,,,,,,"Agrākais pārdošanas datums","2020-09-02 00:00:00",,
+,,,,,,"Vēlākais pārdošanas datums","2020-10-29 00:00:00",,
