@@ -54,13 +54,7 @@ echo"<br>Reizrēķina tabula līdz 10<br>";
       }
 echo"</pre>";
 
-
-
-
-
       ?> 
-
-   
-    
+  
   </body>
 </html>
