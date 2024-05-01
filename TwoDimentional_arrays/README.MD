@@ -1,37 +1,41 @@
-# PHP Sorting Algorithms Web Application
+# PHP Test Project
+================
 
-This PHP script creates a web application that allows users to sort an array of numbers or words using different sorting algorithms.
+This project contains two PHP scripts that generate and display various tables.
 
-## Features
+## Script 1: Kalendārs
+--------------------
 
-1. The application provides a form for users to select an array and a sorting algorithm.
-2. The application supports the following sorting algorithms:
-   - Bubble Sort
-   - Insertion Sort
-   - Shell Sort
-   - Bisection Sort
-3. The application performs the sorting operation and displays the sorted array on the webpage.
-4. The application also calculates and displays the execution time of the sorting algorithm and compares it with the execution time of the built-in `sort()` function.
+This script generates a calendar table with days of the month and a multiplication table up to 10.
 
-## How to Run
+### Features
 
-You can run this script on a server that supports PHP. Make sure you have PHP installed on your server. If not, you can install it using a package manager like apt or yum:
+* Generates a calendar table with days of the month
+* Displays a multiplication table up to 10
 
-\`\`\`bash
-sudo apt install php  # Ubuntu/Debian
-sudo yum install php  # CentOS/RHEL
-\`\`\`
+### Output
 
-Then, you can run the script by placing it in your server's web directory (usually `/var/www/html` on Linux servers) and accessing it from a web browser.
+The script outputs a HTML page with two tables: a calendar table and a multiplication table.
 
-## Input
+## Script 2: 1.UZD and 2.UZD
+---------------------------
 
-The script expects input from a form on the webpage. The user should select an array from the 'Masīvs' dropdown menu and a sorting algorithm from the 'Sakārtošanas sistēma' dropdown menu.
+This script contains two exercises: 1.UZD and 2.UZD.
 
-## Output
+### 1.UZD
+---------
 
-The script performs the sorting operation and displays the sorted array on the webpage. It also displays the execution time of the sorting algorithm and compares it with the execution time of the built-in `sort()` function.
+* Initializes a 10x10 array with zeros
+* Fills the array with values based on the row and column indices
+* Displays the array as a table
 
-## Note
+### 2.UZD
+---------
 
-The script uses built-in PHP functions to perform the operations on the array. It also uses the built-in PHP `$_POST` superglobal to retrieve form data. The script performs the sorting operations using the sorting algorithms defined in the included PHP files.
+* Initializes a 10x10 array with zeros
+* Fills the array with values based on the row and column indices, with a twist
+* Displays the array as a table
+
+### Output
+
+The script outputs a HTML page with two tables: one for 1.UZD and one for 2.UZD.
